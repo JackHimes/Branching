@@ -13,4 +13,5 @@
 ### Branching Commands
 * 'git branch' - Lost local git branches
 * 'git branch newBranch' - Create local branch 'newBranch'
-* ' git checkout newBranch' - check out local 'newBranch'
+* 'git checkout newBranch' - check out local 'newBranch'
+* 'git branch -M otherBranch' - Rename current branch to 'otherBranch'
